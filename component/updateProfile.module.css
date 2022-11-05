@@ -1,0 +1,20 @@
+.container{
+width: 80%;
+height: 300px;
+margin: 5rem auto; 
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+.field{
+    display: flex;
+    align-items: center;
+}
+.field p{
+    margin-right: auto;
+    margin-left: 40px;
+    color: aliceblue;
+}

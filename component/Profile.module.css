@@ -1,0 +1,28 @@
+.profile{
+    width: 60%;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+} 
+.button{
+    width: 20%;
+    height: 100%;
+    border: none;
+    background: springgreen;
+    font-size: 1.8rem;
+    color: aliceblue;
+    
+}
+.input{
+    width: 60%;
+    height: 100%;
+    border: none;
+    border: 2px solid #000;
+    margin-right: 3px;
+    font-size: 1.8rem;
+}
+.ali{
+    width: 100%;
+}
